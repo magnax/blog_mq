@@ -81,6 +81,7 @@ GEM
     ffi (1.15.5)
     globalid (1.1.0)
       activesupport (>= 5.0)
+    graphql (2.0.23)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     listen (3.8.0)
@@ -196,6 +197,7 @@ DEPENDENCIES
   byebug
   devise
   faker
+  graphql
   listen (~> 3.3)
   pg
   puma (~> 5.0)
